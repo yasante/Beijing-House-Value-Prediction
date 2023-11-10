@@ -1,4 +1,4 @@
-## Project Description: Predicting Apartment Prices in Beijing
+## Predicting Apartment Prices in Beijing
 
 ### Overview
 This project focuses on predicting apartment prices in Beijing using machine learning models. The dataset used for this analysis contains various features related to apartment listings, including location, amenities, and other relevant details. The goal is to build a model that accurately predicts apartment prices based on these features.
